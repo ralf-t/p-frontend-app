@@ -1,3 +1,11 @@
+# Running the app
+1. `npm install`
+2. `npm run dev`
+
+# Running Cypress tests
+1. `npx cypress open`
+2. Run scripts in GUI
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
